@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "396705817873",
+    "firebase_url": "https://esptestgb1-default-rtdb.firebaseio.com",
+    "project_id": "esptestgb1",
+    "storage_bucket": "esptestgb1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396705817873:android:1f4a9a87fc343489ee18b0",
+        "android_client_info": {
+          "package_name": "com.example.door_lock_v2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "396705817873-0g2thj1d9vjqa5fllk6mukb64au1425b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.door_lock_v2",
+            "certificate_hash": "3f1539522d04c596801ab8198365a74472925c65"
+          }
+        },
+        {
+          "client_id": "396705817873-ikt4s80dd0o456vincj926ajkf78urer.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAujQXDQyqoEDeLOQmvwZ3ak9cXDdLyJ4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "396705817873-ikt4s80dd0o456vincj926ajkf78urer.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
